@@ -9,3 +9,4 @@ Silahkan isi list nama di bawah ini apabila ingin mencoba dengan format berikut
 - [Alvi Yuniar] | [2010631170050]
 - [Ali Dongan Harahap] | [2010631170045
 - [Altolyto Sitanggang] | [2010631170049]
+- [Alif Karimullah] | [2010631170046]
