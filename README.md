@@ -1,2 +1,4 @@
-# coba-git-4a
-Repo ini berisi belajar github bersama 4A
+# Coba Git
+Silahkan isi list nama di bawah ini apabila ingin mencoba dengan format berikut
+
+- [Nama Lengkap] | [NPM]
